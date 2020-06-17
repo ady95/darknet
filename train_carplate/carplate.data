@@ -1,0 +1,5 @@
+classes= 1
+train  = train_carplate/train_carplate.txt
+valid  = train_carplate/test_carplate.txt
+names = train_carplate/carplate.names
+backup = backup/

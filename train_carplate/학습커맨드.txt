@@ -1,0 +1,1 @@
+darknet.exe detector train train/car.data train/yolov3-car.cfg darknet53.conv.74 -dont_show -mjpeg_port 8090 -map
